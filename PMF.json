@@ -1,0 +1,87 @@
+{
+  "Category" : {
+    "01" : {
+      "Image" : "http://frostshock.eu/wp-content/uploads/2016/07/csgo.jpg",
+      "Name" : "CSGO"
+    },
+    "02" : {
+      "Image" : "http://napidroid.hu/wp-content/uploads/pubg_header-660x330.jpg",
+      "Name" : "PUBG"
+    },
+    "03" : {
+      "Image" : "http://www.gamechannel.hu/kep.php?kep=pictures/blog/league_of_legends_champion_visszaterites_3.jpg&normalx=744",
+      "Name" : "LOL"
+    }
+  },
+  "User" : {
+    "000000" : {
+      "name" : "jajaja",
+      "password" : "1223333"
+    },
+    "18182" : {
+      "name" : "notfunx",
+      "password" : "nemtudom"
+    },
+    "0988123344" : {
+      "Name" : "elsonev",
+      "Password" : "1234"
+    },
+    "0988123355" : {
+      "Name" : "masodiknev",
+      "Password" : "1234"
+    },
+    "0988123369" : {
+      "name" : "47",
+      "password" : "asss"
+    },
+    "0988126969" : {
+      "name" : "Tom valami",
+      "password" : "1234w2"
+    },
+    "06202680405" : {
+      "name" : "arnold",
+      "password" : "smolpoci"
+    },
+    "admin" : {
+      "name" : "arni",
+      "password" : "admin"
+    },
+    "aka" : {
+      "name" : "yky",
+      "password" : "akaksjskskykykyyy"
+    },
+    "dagadek" : {
+      "name" : "szili",
+      "password" : "nememem21"
+    },
+    "dagadtszili" : {
+      "name" : "szilard",
+      "password" : "nemtudom21"
+    },
+    "kxmslsls" : {
+      "name" : "dkdksl",
+      "password" : "34dd"
+    },
+    "notfunx" : {
+      "name" : "arnikah",
+      "password" : "1010101010101"
+    }
+  },
+  "Food": {
+    "01": {
+      "Name": "nova",
+      "Image": "https://oneonez.d3hell.com/uploads/2017/03/10Gold-Nova-Master.jpg",
+      "MenuId": "01"
+    },
+    "02": {
+      "Name": "pocsinki",
+      "Image": "https://content.invisioncic.com/r273030/monthly_2017_05/20170520210101_1.jpg.01a29581142b5a8e893e21644fb6ceb2.jpg",
+      "MenuId": "02"
+    },
+    "03": {
+      "Name": "fiora",
+      "Image": "https://i.ytimg.com/vi/YRyGvsGbHnM/maxresdefault.jpg",
+      "MenuId": "03"
+    }
+  }
+}
